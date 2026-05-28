@@ -1,85 +1,75 @@
-# 🕹️ PLAYER 1: AARÓN [ PRESS START ]
-
-**`STATUS:`** `ONLINE` 
-**`CLASS:`** `Systems Engineering Student (UNMSM)`
-**`GUILD:`** `Lima, Peru`
+# [ SYSTEM // ADMIN : AARÓN VALDEZ MATTOS ]
 
 ---
 
-## 📜 `[ LEVEL 1 : CHARACTER LORE ]`
-
-> "Construyendo el futuro con código y redes, un bloque a la vez."
-
-- ⚔️ **Misiones Actuales:** Desarrollando el Sistema de Monitoreo de Bienestar Estudiantil (FISI) y la plataforma `Rocoto Restaurante Chifa`.
-- 🛡️ **Misiones Pasadas:** Sistema de Diagnóstico Médico (Java + MATLAB) y proyectos de Inteligencia de Negocios.
-- 🎮 **Mini-juegos (Hobbies):** Tocar la guitarra acústica, coleccionar música de los 70s y capturar Mega Evoluciones en Pokémon GO.
-
----
-
-## 🏰 `[ LEVEL 2 : QUESTS COMPLETED (EXPERIENCE) ]`
-
-**Analista de Informática y TI - Soporte Técnico | UNMSM (FISI)** `[Ene 2022 - Mar 2026]`
-- Gestión de proyectos de infraestructura TI y supervisión de conectividad.
-- Optimización de redes LAN/WAN y Wi-Fi (routers, switches, Access Points).
-- Diseño e implementación de soluciones de videovigilancia (Dahua, Hikvision, NVR, DVR).
-- Ejecución de cableado estructurado (UTP, fibra óptica).
-- Administración de sistemas operativos, aplicaciones y soporte técnico a usuarios finales.
-
----
-
-## 🏆 `[ LEVEL 3 : ACHIEVEMENTS UNLOCKED (CERTS) ]`
-
-- 🏅 **SQL Server - Base de Datos 1** | Universidad Nacional de Ingeniería (UNI) `[2024]`
-- 🏅 **Programación en Python Básico** | Universidad Nacional de Ingeniería (UNI) `[2024]`
-- 🏅 **NDG Linux Unhatched** | Cisco Networking Academy `[2023]`
-
----
-
-## 🎒 `[ LEVEL 4 : INVENTORY (SKILL TREE) ]`
-
-<div align="center">
-
-**`> LENGUAJES_Y_BD`**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
-**`> WEB_Y_CLOUD`**
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white) 
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) 
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-
-**`> REDES_Y_SYSADMIN`**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) 
-![pfSense](https://img.shields.io/badge/pfSense-000000?style=for-the-badge&logo=pfsense&logoColor=white) 
-![Cisco](https://img.shields.io/badge/Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-
-</div>
-
----
-
-## 📈 `[ LEVEL 5 : HIGH SCORES ]`
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de GitHub">
-</div>
-
----
-
-## 🤝 `[ MULTIPLAYER MODE : CONTACT ]`
-
-* 💼 **LinkedIn:** [linkedin.com/in/beekervaldezmattos](https://www.linkedin.com/in/beekervaldezmattos)
-* 🎓 **Institucional:** [beeker.valdez@unmsm.edu.pe](mailto:beeker.valdez@unmsm.edu.pe)
-* 📧 **Email Player 1:** [beeker147@gmail.com](mailto:beeker147@gmail.com)
-* 📧 **Email Player 2:** [bekeraron23@hotmail.com](mailto:bekeraron23@hotmail.com)
+> `CONSULTA DE PERFIL // REGISTRO_ACTUALIZADO: 2024`
+>
+> "Ingeniero de Sistemas en formación (UNMSM) enfocado en puentear la brecha entre la infraestructura TI robusta y el desarrollo de software inteligente. Especialista en optimización de redes (PPDIOO) e integración de automatización asistida por IA."
 
 <br>
 
+## >_ COMPETENCIAS_NÚCLEO.DAT
+
 <div align="center">
-  <i><kbd>INSERT COIN TO CONTINUE...</kbd></i>
+
+**[ INFRAESTRUCTURA & SYSADMIN ]**
+
+![Linux](https://img.shields.io/badge/Linux-32612D?style=flat-square&logo=linux&logoColor=DFDFDF)
+![Cisco](https://img.shields.io/badge/Cisco_PPDIOO-1A4C6D?style=flat-square&logo=cisco&logoColor=DFDFDF)
+![Windows Server](https://img.shields.io/badge/Windows_Server-2B3B6D?style=flat-square&logo=windows-server&logoColor=DFDFDF)
+![pfSense](https://img.shields.io/badge/pfSense-6D1A1A?style=flat-square&logo=pfsense&logoColor=DFDFDF)
+![Wireshark](https://img.shields.io/badge/Wireshark-32612D?style=flat-square&logo=wireshark&logoColor=DFDFDF)
+![CCTV](https://img.shields.io/badge/CCTV_Systems-DF8B2F?style=flat-square&logoColor=DFDFDF)
+
+**[ DESARROLLO & DATOS ]**
+
+![Python](https://img.shields.io/badge/Python-DF8B2F?style=flat-square&logo=python&logoColor=DFDFDF)
+![Java](https://img.shields.io/badge/Java-DF8B2F?style=flat-square&logo=openjdk&logoColor=DFDFDF)
+![SQL Server](https://img.shields.io/badge/SQL_Server-6D1A1A?style=flat-square&logo=microsoft-sql-server&logoColor=DFDFDF)
+![Firebase](https://img.shields.io/badge/Firebase-2B3B6D?style=flat-square&logo=firebase&logoColor=DFDFDF)
+![Vercel](https://img.shields.io/badge/Vercel-32612D?style=flat-square&logo=vercel&logoColor=DFDFDF)
+
+**[ AUTOMATIZACIÓN & IA ]**
+
+![n8n](https://img.shields.io/badge/n8n_Workflows-DF8B2F?style=flat-square&logo=n8n&logoColor=DFDFDF)
+![AI Agents](https://img.shields.io/badge/Skills_%26_Agents-1A4C6D?style=flat-square&logo=openai&logoColor=DFDFDF)
+![VIBECODER](https://img.shields.io/badge/VIBECODER-32612D?style=flat-square&logo=visual-studio-code&logoColor=DFDFDF)
+
 </div>
+
+<br>
+
+## >_ PROYECTOS_DESTACADOS.LOG
+
+### [ INVESTIGACIÓN ] Optimización de Redes FISI - UNMSM
+> *Tesis en Curso*
+>
+> Aplicación de la metodología **PPDIOO** para el rediseño y gestión avanzada de la infraestructura de red de la facultad, integrando agentes de IA para auditoría y automatización de políticas de seguridad.
+
+### [ WEB // E-COMMERCE ] Rocoto Restaurante Chifa
+> Plataforma web integral para gestión de pedidos. Desarrollo backend y frontend, implementación de bases de datos en tiempo real con **Firebase**, y despliegue optimizado en **Vercel**.
+
+### [ SOFTWARE // SALUD ] Sistema de Diagnóstico Médico
+> Aplicación de asistencia preliminar estructurada bajo arquitectura **MVC** en **Java Swing**. Integra procesamiento matemático avanzado conectando **Java** con **MATLAB** vía JDBC.
+
+<br>
+
+---
+
+## >_ MONITOREO_DE_ACTIVIDAD.EXE
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=monokai&hide_border=true&title_color=79a435&text_color=96a29e&icon_color=ff9500&bg_color=1a1a1a" alt="Estadísticas de Terminal">
+</div>
+
+---
+
+## >_ PUERTOS_DE_CONEXIÓN.BAT
+
+`[ ESTABLECIENDO CONEXIÓN CON SERVIDOR EXTERNO... ]`
+
+* `[PORT 80]:` **LinkedIn:** [linkedin.com/in/beekervaldezmattos](https://www.linkedin.com/in/beekervaldezmattos)
+* `[PORT 25]:` **Institucional:** [beeker.valdez@unmsm.edu.pe](mailto:beeker.valdez@unmsm.edu.pe)
+* `[PORT 110]:` **Email Secundario:** [beeker147@gmail.com](mailto:beeker147@gmail.com)
+
+`[ FIN DE REPORTE ]`
